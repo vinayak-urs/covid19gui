@@ -8,6 +8,7 @@ MODULE REQUIRED :
 2 BeautifulSoup     : pip install beautifulsoup4
 3 Tkthread          : pip install tkthread
 4 Requests          : pip install requests
+5 Threading         : pip install threading2
 
 BENEFIT OF THE MODEL:
 This program will be used as the tracker of the COVID19 in INDIA and his states/city affected by the epidemic this can be used by the governmnet official to spread rumors and provide an easy interface for evaluations
