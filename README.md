@@ -11,3 +11,5 @@ MODULE REQUIRED :
 
 BENEFIT OF THE MODEL:
 This program will be used as the tracker of the COVID19 in INDIA and his states/city affected by the epidemic this can be used by the governmnet official to spread rumors and provide an easy interface for evaluations
+
+SOURCE : All the data will be updated from the government site https://www.mohfw.gov.in
