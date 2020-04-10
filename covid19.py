@@ -31,12 +31,12 @@ def update():
     pureStatus = rawStatus.split("\n\n")
 
     # this is data of the all states/city in list format
-    stateData = pureStatus[:30]
+    stateData = pureStatus[:31]
 
     # This is the data of the india collectively
-    restData = pureStatus[30:31]
+    restData = pureStatus[31:32]
     restData2 = []
-    restData2 = pureStatus[31:33]
+    restData2 = pureStatus[32:34]
 
     # string to manipulate the data of the india from the website in the respective manner
     india_str = ""
@@ -53,7 +53,7 @@ def update():
     indiaData = india_str.split("\n")
 
     # Updating the sreial no of the india
-    indiaData.insert(0, 31)
+    indiaData.insert(0, 32)
     indiaData[1] = "INDIA"
 
     # Cloning the data to the new list
